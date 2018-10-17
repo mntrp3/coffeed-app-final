@@ -18,7 +18,7 @@ djangoaddattr==0.0.1
 gunicorn==19.2.1
 ipython==2.4.1
 logilab-common==0.63.2
-psycopg2==2.6
+psycopg2==2.7
 pylint==1.4.1
 six==1.9.0
 static3==0.5.1
